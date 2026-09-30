@@ -1,0 +1,31 @@
+{
+  "name": "DyslexiCord",
+  "description": "Dyslexia accessibility finally comes to Discord!",
+  "version": "1",
+  "authors": [
+    {
+      "name": "switz14",
+      "id": "623632964219043851"
+    }
+  ],
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Bold.otf?raw=1",
+    "ggsans-Bold": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Bold.otf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-BoldItalic.otf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Bold.otf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-BoldItalic.otf?raw=1",
+    "ggsans-Medium": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Bold.otf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-BoldItalic.otf?raw=1",
+    "ggsans-Normal": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Regular.otf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Italic.otf?raw=1",
+    "ggsans-Semibold": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Bold.otf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-BoldItalic.otf?raw=1",
+    "NotoSans-Bold": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Bold.otf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Bold.otf?raw=1",
+    "NotoSans-Medium": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Bold.otf?raw=1",
+    "NotoSans-Normal": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Regular.otf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Italic.otf?raw=1",
+    "NotoSans-Semibold": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Bold.otf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Bold.otf?raw=1"
+  },
+}
