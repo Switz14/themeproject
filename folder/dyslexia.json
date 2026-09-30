@@ -8,6 +8,11 @@
       "id": "623632964219043851"
     }
   ],
+  "plus": {
+    "version": 0,
+    "mentionLineColor": "#fff",
+    "iconpack": "rosiecord-plumpy"
+  },
   "fonts": {
     "ABCGintoNord-ExtraBold": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Bold.otf?raw=1",
     "ggsans-Bold": "https://github.com/Switz14/themeproject/raw/refs/heads/main/opendyslexic-0.92/OpenDyslexic-Bold.otf?raw=1",
